@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b0737a7a-b4ba-4f8c-a39d-25724063dc50": {
+      "ProjectGuid": "b0737a7a-b4ba-4f8c-a39d-25724063dc50",
+      "DisplayName": "NorthwindBupa.WebApi",
+      "ColorIndex": 0
+    },
+    "6f7e5993-5443-4bfd-90ba-a0d5075c4f10": {
+      "ProjectGuid": "6f7e5993-5443-4bfd-90ba-a0d5075c4f10",
+      "DisplayName": "NorthwindBupa.Bll",
+      "ColorIndex": 1
+    },
+    "ed68aa59-3dd1-43be-bdc3-00f064fb84f6": {
+      "ProjectGuid": "ed68aa59-3dd1-43be-bdc3-00f064fb84f6",
+      "DisplayName": "NorthwindBupa.Dal",
+      "ColorIndex": 2
+    },
+    "ff7d0e5a-09ff-4bf7-936b-fd484afcb326": {
+      "ProjectGuid": "ff7d0e5a-09ff-4bf7-936b-fd484afcb326",
+      "DisplayName": "NorthwindBupa.Entity",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "a0a6cbd2-d48e-4033-b9d7-bfd20c079098": {
+      "ProjectGuid": "a0a6cbd2-d48e-4033-b9d7-bfd20c079098",
+      "DisplayName": "NorthwindBupa.Interface",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
